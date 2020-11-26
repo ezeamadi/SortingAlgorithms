@@ -49,7 +49,7 @@ for num in fh:
 
 start_time = time.time()
 
-ans = heap_sort(numlist) 
+heap_sort(numlist) 
 
 end_time = time.time()
 arr = list()
